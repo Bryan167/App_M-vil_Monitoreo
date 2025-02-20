@@ -1,4 +1,3 @@
-# monitoreo_lugares_tk
 
 En este proyecto de titulación desarrollado por el estudiante Bryan Ivan Riofrio Celi para obtener el titulo de Ingeniero en Telecomunicaciones se diseño un prototipo para monitorear las variables ambientales de los lugares turistico, empleando tecnologías innovadoras como Wifi en los módulos ESP32 y el desarrollo de una aplicación móvil en el framework "Flutter" la cual está vinculada con Firebase.
 

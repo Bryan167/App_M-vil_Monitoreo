@@ -1,16 +1,5 @@
 # monitoreo_lugares_tk
 
-A new Flutter project.
+En este proyecto de titulación desarrollado por el estudiante Bryan Ivan Riofrio Celi para obtener el titulo de Ingeniero en Telecomunicaciones se diseño un prototipo para monitorear las variables ambientales de los lugares turistico, empleando tecnologías innovadoras como Wifi en los módulos ESP32 y el desarrollo de una aplicación móvil en el framework "Flutter" la cual está vinculada con Firebase.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Gracias a la conexión Wi-Fi, se programan horarios para generar registros históricos, mientras que la aplicación móvil ofrece información en tiempo real sobre las condiciones ambientales. De esta manera, tanto ciudadanos como administradores pueden conocer el estado de los lugares turísticos de forma remota y cómoda, sin necesidad de desplazarse físicamente.
